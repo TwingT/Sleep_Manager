@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SleepManager</string>
+    <string name="sleepRecord">수면기록</string>
+    <string name="sleepAnalysis">수면분석</string>
+    <string name="cycleControl">사이클 조절</string>
+    <string name="timetable">시간표</string>
+    <string name="alarm">알람</string>
+    <string name="how_to_use">사용방법</string>
+    <string name="sleep_manager">Sleep Manager</string>
+    <string name="semester_timetable">학기 시간표</string>
+    <string name="week_timetable">일주일 시간표</string>
+    <string name="back_button">Back</string>
+</resources>
